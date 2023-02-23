@@ -1,5 +1,8 @@
 # Year-11-Unit-7-ArrayLists-Tutorial-DominoPile
 
+# Name:Amanda
+# Name: Alayna
+
 ### __Part 1: Domino__
 
 Create a class to represent a single domino.
