@@ -73,7 +73,7 @@ public class DominoPileTester {
    public void testShuffle() {
         setUp();
         dominoPile.newStack6();
-        dominoPile.shuffle();
+        dominoPile.shuffleOptionOne();
         int top = 0;
         int bottom = 0;
         boolean allInSameOrder = true;
